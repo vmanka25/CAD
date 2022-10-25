@@ -27,3 +27,13 @@ For this assignment I had to build a swing arm using drawings
 ### Image
 ![image](https://github.com/vmanka25/CAD/blob/main/SwingArm.png?raw=true)
 ### Reflection
+
+## Multi-Part Design Studio
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
