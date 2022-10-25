@@ -62,5 +62,5 @@ For this assignment I had to build a swing arm using drawings
 ### Evidence
 
 ### Image
-
+![MultiPartStudio](https://user-images.githubusercontent.com/71350243/197867875-6a4524b2-6ac3-481d-b032-b3b8fc5ec079.png)
 ### Reflection
