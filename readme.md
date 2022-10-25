@@ -1,7 +1,5 @@
 # BasicCAD
 
-## Table of Contents
-
 ## Team Work
 
 ### 4.1
