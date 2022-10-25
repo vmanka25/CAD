@@ -43,7 +43,7 @@ branching the main was kind of confusing but not that hard and to customize it I
 
 ### Description
 
-For this assignment I had to build a swing arm using drawings
+For this assignment I had to use drawings to create a swing arm
 
 ### Evidence
 
@@ -55,12 +55,22 @@ For this assignment I had to build a swing arm using drawings
 
 ### Reflection
 
+following the drawings to create the part was very difficult and Kaz helped alot. It was annoying how dimensions were on different drawings instead of being on a single drawing
+
 ## Multi-Part Design Studio
 
 ### Description
 
+I had to follow drawings to build a cylinder thing in Onshape using a single part studio with multiple parts
+
 ### Evidence
 
+[Multi-Part in Onshape](https://cvilleschools.onshape.com/documents/2c4ff2cf777a004ac2ad977b/w/deb7e1b4861876b22781652f/e/37ab05257aff548c91d81c9b)
+
 ### Image
+
 ![MultiPartStudio](https://user-images.githubusercontent.com/71350243/197867875-6a4524b2-6ac3-481d-b032-b3b8fc5ec079.png)
+
 ### Reflection
+
+following these drawings was easier than the swing arm and building it was pretty easy. Dimensions that are in parenthesese and grayed out our dimensions that are relative to other parts.
