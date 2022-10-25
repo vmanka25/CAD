@@ -6,9 +6,9 @@
 
 ### 4.1
 #### Description
-filler
+I was student A and I had to make the ring for a pull copter
 #### Image
-![4.1](filler)
+![4 1](https://user-images.githubusercontent.com/71350243/197864249-f5cf50c6-6e48-4428-accb-d08f0e67c00e.png)
 #### Reflection
 filler
 
@@ -16,7 +16,7 @@ filler
 #### Description
 filler
 #### Image
-![4.1](filler)
+![4 2](https://user-images.githubusercontent.com/71350243/197864847-4694f653-87fd-4c4a-9a6d-f67ed895ccd3.png)
 #### Reflection
 filler
 
@@ -24,7 +24,7 @@ filler
 #### Description
 filler
 #### Image
-![4.1](filler)
+![4 3](https://user-images.githubusercontent.com/71350243/197865318-3f96c785-500e-44ee-95d6-501b158dffa2.png)
 #### Reflection
 filler
 
