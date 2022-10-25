@@ -1,11 +1,6 @@
 # BasicCAD
 
-We are creating a caster.
-
----
 ## Table of Contents
-* [Table of Contents](#Table-of-Contents)
-* [Team Work](#Team Work)
 
 ## Team Work
 
@@ -18,7 +13,4 @@ For this assignment nixxon and I had to work together to build a pull copter
 
 ### Image
 
-
 ### Reflection
-
----
