@@ -6,38 +6,38 @@
 
 ### 4.1
 #### Description
-I was student A and I had to make the ring for a pull copter
+for 4.1 I had to follow instructions to create a ring for a helicopter thing while nixxon worked on the spinner
 #### Image
 ![4 1](https://user-images.githubusercontent.com/71350243/197864249-f5cf50c6-6e48-4428-accb-d08f0e67c00e.png)
 #### Reflection
-filler
+creating the ring was really easy and I probably should have been student B because Nixxon struggled a bit with the spinner. I didn't learn anything new with the ring.
 
 ### 4.2
 #### Description
-filler
+I had to follow instructions to create a key which would spin the spinner.
 #### Image
 ![4 2](https://user-images.githubusercontent.com/71350243/197864847-4694f653-87fd-4c4a-9a6d-f67ed895ccd3.png)
 #### Reflection
-filler
+This was pretty easy and using pi to dimension the gears on the key was pretty cool
 
 ### 4.3
 #### Description
-filler
+Nixxon and I had to assembele the launcher using various mates
 #### Image
 ![4 3](https://user-images.githubusercontent.com/71350243/197865318-3f96c785-500e-44ee-95d6-501b158dffa2.png)
 #### Reflection
-filler
+this was sort of difficult. the rack and pinion relation is used to relate a revolute and slider mate and it is not a mate by itself.
 
 ### 4.4-4.5
-#### Description
+#### for this part I had to branch the copter then modify it
 filler
 #### Image
 ![4 4](https://user-images.githubusercontent.com/71350243/197867091-1e55cdb1-da99-42b2-bb93-9608532ae6da.png)
 #### Reflection
-filler
+branching the main was kind of confusing but not that hard and to customize it I got rid of the circle and chamfered the edges
 
 ### Evidence
-[Pull Copter in Onshape](filler)
+[Pull Copter in Onshape](https://cvilleschools.onshape.com/documents/64361c9e4b5aaa598eb0ff70/w/228810e935cc153f47565567/e/b36b24925068cd7289999d65)
 
 ## Swing Arm
 
